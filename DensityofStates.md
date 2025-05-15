@@ -89,10 +89,6 @@ Where:
 
 ## 5. DOS Schematic Diagram
 
-Include the following image in your repo for visual clarity.
-
-```markdown
-
     DOS g(E)
       ↑
       |
